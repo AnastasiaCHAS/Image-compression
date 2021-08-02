@@ -12,8 +12,8 @@ _Архитектура нейронной сети - encoder-decoder_
 
 Предварительно картинки преобразовываются к размеру 512*512. 
 
-![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/ar.png)
-![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/la.png)
+![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/img/ar.png)
+![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/img/la.png)
 
 _Результат_ - сжатие в 8 раз!
 
@@ -23,8 +23,8 @@ _Примеры работы_
 
 Справа - картинка, которая сжимается, а потом разжимается с помощью нейронной сети.
 
-![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/1.jpg)
-![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/2.jpg)
+![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/img/1.jpg)
+![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/img/2.jpg)
 
 _Точность равна 99%._
 
