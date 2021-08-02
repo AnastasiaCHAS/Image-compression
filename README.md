@@ -9,19 +9,23 @@ _Способы применения:_
 Для обучения использовался датасет https://www.kaggle.com/andrewmvd/animal-faces.
 
 _Архитектура нейронной сети - encoder-decoder_
+
 Предварительно картинки преобразовываются к размеру 512*512. 
 
-![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/ar.jpg)
-![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/la.jpg)
+![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/ar.png)
+![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/la.png)
 
 _Результат_ - сжатие в 8 раз!
 
 _Примеры работы_
+
 Слева - исходная картинка
+
 Справа - картинка, которая сжимается, а потом разжимается с помощью нейронной сети.
 
 ![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/1.jpg)
 ![](https://github.com/AnastasiaCHAS/Image-compression/blob/main/2.jpg)
 
 _Точность равна 99%._
+
 (Точность - среднее значение MSE по всем пикселям.)
